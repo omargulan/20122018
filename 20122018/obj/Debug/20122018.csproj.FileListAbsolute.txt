@@ -1,0 +1,6 @@
+c:\users\margulan\source\repos\20122018\20122018\bin\Debug\20122018.exe
+c:\users\margulan\source\repos\20122018\20122018\bin\Debug\20122018.pdb
+c:\users\margulan\source\repos\20122018\20122018\obj\Debug\20122018.csprojResolveAssemblyReference.cache
+c:\users\margulan\source\repos\20122018\20122018\obj\Debug\20122018.csproj.CoreCompileInputs.cache
+c:\users\margulan\source\repos\20122018\20122018\obj\Debug\20122018.exe
+c:\users\margulan\source\repos\20122018\20122018\obj\Debug\20122018.pdb
